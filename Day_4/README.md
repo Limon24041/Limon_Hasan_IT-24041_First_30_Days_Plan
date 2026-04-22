@@ -1,11 +1,8 @@
 
 Date:22-04-2026
 
-
 Day :4
 
+Task Name : Inheritance
 
-Task Name : Encapsulation
-
-
-Video link : https://youtu.be/HZUUYnIZO_0?si=aKqbbFqw4te6BAQc
+Video link :https://youtu.be/j_VA2Rp6jM0?si=jaHxdGKFcT367KUC
